@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # algorithm-in-python
 
 ## 環境設定(Anaconda で python3.11.7 を使用)
@@ -35,3 +36,6 @@ Anaconda にある全ての環境を確認
 > > > > > > > a2403dd (README.md 更新)
 
 https://qiita.com/ell/items/fb60d2fd765650417c7a
+=======
+
+>>>>>>> 2609c96a9b7f414a85dea8a0887f802ec370a26b
