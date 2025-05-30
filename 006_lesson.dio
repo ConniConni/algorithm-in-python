@@ -31,7 +31,7 @@
                 <mxCell id="14" value="開始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="240" y="-1130" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="1 → num" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="19" value="11 → num" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="210" y="-1070" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="25" value="改行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
