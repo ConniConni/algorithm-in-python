@@ -7,4 +7,11 @@ for i in range(len(array)):   # 配列の要素数だけ繰り返す
     num = len(array) - (i + 1)
     print(array[num])           # 添字を使って要素を表示
 
+# 別解
+
+print("***** 別解 *****")
+array = [10, 20, 30, 40, 50]  # 配列の宣言と初期化
+for i in range(len(array)-1, -1 , -1):   # 配列の要素数だけ繰り返す
+    print(array[i])           # 添字を使って要素を表示
+
 
