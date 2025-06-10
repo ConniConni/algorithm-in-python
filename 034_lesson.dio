@@ -1,0 +1,97 @@
+<mxfile host="65bd71144e">
+    <diagram id="XH0Vy2zy-eVzDtVqT014" name="ページ1">
+        <mxGraphModel dx="441" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="122" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="254.51" y="-616.23" width="183.74" height="148.19" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="212" y="392" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="終了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="242" y="412" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270.9625" y="-310" as="sourcePoint"/>
+                        <mxPoint x="270" y="-1080" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="探索ループ開始&lt;div&gt;i &amp;gt; len(array)&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-747" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-1160" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="開始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="-1130" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="i + 1 → i" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="210" y="-361" width="130" height="65.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="59" vertex="1">
+                    <mxGeometry width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;探索&lt;/span&gt;ループ&lt;div&gt;終了&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="59" vertex="1">
+                    <mxGeometry x="9.5" y="4.5" width="101" height="50.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="配列aryを宣言し、初期化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-1070" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-10" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="終了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;aray[0] → min_value&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-1000" width="119" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="-604.72" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="384" y="-678" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="min_valueを表示" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="-280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="524" y="402" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="終了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="554" y="422" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="164" value="ary[i] → min_value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="-613.13" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="165" value="min_value &amp;lt; ary[i]" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+                    <mxGeometry x="212" y="-670" width="119" height="71.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="i → min_index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="-531.13" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="170" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;min_index&lt;/span&gt;を表示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="-150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="171" value="改行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="-215" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="172" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;改行&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="-85" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="0 → min_index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="-930" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;2 → i&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="-860" width="119" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
