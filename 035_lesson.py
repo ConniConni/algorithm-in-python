@@ -15,4 +15,15 @@ for i in range(1, len(ary)):  # 2番目の要素から要素数分繰り返す
 print(max_value)              # 最大値を表示
 print(max_index)              # 最大値の格納位置を表示
 
+print("##### 別解 #####")
+
+ary = [68, 55, 72, 93, 87]    # コピー元の配列の宣言と初期化
+max_index = 0                 # 最大値の格納位置の宣言と初期化
+
+for i in range(1, len(ary)):
+    if ary[max_index] < ary[i]:
+        max_index = i
+
+print(ary[max_index])
+print(max_index)
 
